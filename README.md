@@ -12,8 +12,6 @@ This is an application which takes a target hexadecimal colour value, and calcul
 
 I built this application as I often found myself needing colour variations of icons. This is a quick and easy way to achieve different coloured icons whilst using only one source image.
 
-## Notes
-
 ### Available Scripts
 
 In the project directory, you can run:
