@@ -1,6 +1,6 @@
 # Recolour
 
-React application for recolouring icons using CSS filters.
+A React application for recolouring icons using CSS filters.
 
 ![Recolour](documentation/recolour.jpg)
 
