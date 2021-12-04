@@ -6,7 +6,7 @@ A tool to generate the CSS filters to recolour an icon to a given colour.
 
 ## Description
 
-This is an application which takes a target hexadecimal colour value, and calculates the corresponding CSS `filter` properties to achieve the target colour.
+A toolthat given a target hexadecimal colour value, calculates the corresponding CSS `filter` properties to achieve the target colour.
 
 ## Motivation
 
