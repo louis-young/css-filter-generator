@@ -1,3 +1,5 @@
+⚠️ Please note that this is an old project and does not reflect the quality of my current work.
+
 # Recolour
 
 A tool to generate the CSS filters to recolour an icon to a given colour.
@@ -11,6 +13,16 @@ A toolthat given a target hexadecimal colour value, calculates the corresponding
 ## Motivation
 
 I built this application as I often found myself needing colour variations of icons. This is a quick and easy way to achieve different coloured icons whilst using only one source image.
+
+## Technologies
+
+- JavaScript.
+- React.
+- Sass (BEM).
+
+---
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Available Scripts
 
