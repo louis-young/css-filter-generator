@@ -1,10 +1,10 @@
 ⚠️ Please note that this is an old project and does not reflect the quality of my current work.
 
-# Recolour
+# CSS Filter Generator
 
 A tool to generate the CSS filters to recolour an icon to a given colour.
 
-![Recolour](documentation/recolour.jpg)
+![CSS Filter Generator](documentation/css-filter-generator.jpg)
 
 ## Description
 
